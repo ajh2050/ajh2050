@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>I"m currently leaning AI MACHINE-LEARNING!</p>
-
-<a href="https://www.instagram.com/yourusername" target="_blank">
+<a href="https://www.instagram.com/stabilityhyeok" target="_blank"></a>
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
