@@ -53,6 +53,9 @@ import matplotlib.pyplot as plt
 | 3          | 3차원 텐서(3-order tensor)  | [[[1,5,9],[2,6,10]],[[3,7,11],[4,8,12]]]|
 | n          | n차원 텐서(n-order tensor)  |       |
 
+## 넘파이 배열의 구조 표기 방법
+<img width="700" alt="KakaoTalk_20241122_215712905" src="https://github.com/user-attachments/assets/31377657-386a-4942-9804-ef34f5fba9a8">
+
 ## 랭크 2,3 배열 생성하기
 ```python
 A = np.array([[3,2],[5,2]])  #랭크 2 배열 생성
@@ -117,6 +120,8 @@ print(np.hstack((v1,v2)))
 -->
 [1 2 3 4 5 6]
 ```
+## 데이터프레임
+![download](https://github.com/user-attachments/assets/a4621666-beff-4078-b94a-4894a65b7b11)
 
 ## 선형대수학 기말고사 대비 예제
 ## ch01 exercise2: 벡터의 노름을 계산하는 알고리즘을 작성하고 , np.linalg.norm()과 동일한 결과를 얻는지 확인
@@ -139,4 +144,14 @@ print(x[1][3])
 x = np.arange(100).reshape(10,10)
 print(x[0:5,0:5])
 ```
+## 편향-분산 트레이드오프
+<img width="545" alt="KakaoTalk_20241122_220528724" src="https://github.com/user-attachments/assets/f62f895d-f189-4173-94ca-d7f9febc3369">
+
+## 홀드아웃 메서드 기법
+<img width="671" alt="KakaoTalk_20241122_220645529" src="https://github.com/user-attachments/assets/d0f6e236-5889-42a3-b515-cb5438089f32">
+
+
+## 혼동행렬
+<img width="327" alt="KakaoTalk_20241122_220305011" src="https://github.com/user-attachments/assets/e96c7e6b-aaeb-46e7-a6e2-8d1c796363d3">
+
 
