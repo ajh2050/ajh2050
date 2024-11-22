@@ -27,4 +27,3 @@
 <a href="https://www.youtube.com/watch?v=SZcjvjrdomE" target="_blank">
     <img src="https://img.youtube.com/vi/SZcjvjrdomE/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
 </a>
-
