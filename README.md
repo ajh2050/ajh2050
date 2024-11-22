@@ -36,6 +36,6 @@ Here are some ideas to get you started:
     <img src="https://img.youtube.com/vi/T6z-0dpXPvU/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
 </a>
 <a href="https://www.youtube.com/watch?v=w9DfC2BHGPA&t" target="_blank">
-    <img src="https://img.youtube.com/vi/T6z-0dpXPvU/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
+    <img src="https://img.youtube.com/vi/w9DfC2BHGPA/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
 </a>
 
