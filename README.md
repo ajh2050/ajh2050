@@ -27,3 +27,18 @@
 <a href="https://www.youtube.com/watch?v=SZcjvjrdomE" target="_blank">
     <img src="https://img.youtube.com/vi/SZcjvjrdomE/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
 </a>
+
+
+# 통계 분석 및 전처리 도구, 시각화 도
+* numpy
+* pandas
+* matplotlib
+
+# 호출 방법
+```python
+import numpy as np
+import panas as pd
+import matplotlib.pyplot as plt
+```
+<img src = "C:\Temp\KakaoTalk_20241122_194844285.png" alt = "설명" width = "200">
+
