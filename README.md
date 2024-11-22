@@ -28,6 +28,10 @@
     <img src="https://img.youtube.com/vi/SZcjvjrdomE/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
 </a>
 
+<a href="https://www.youtube.com/watch?v=s7FY3K5b3DU" target="_blank">
+    <img src="https://img.youtube.com/vi/s7FY3K5b3DU/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
+</a>
+
 
 ## 통계 분석 및 전처리 도구, 시각화 도구
 * numpy
