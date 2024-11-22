@@ -15,7 +15,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 </p>
 
-
 <a href="file:///C:/Users/drema/Downloads/%EC%95%88%EC%A0%95%ED%98%81-%EA%B3%84%EC%82%B0%EA%B8%B0_%EC%B5%9C%EC%A2%85caculator%20(6).html">
 
 <h3>Inspiring Video</h3>
@@ -24,5 +23,8 @@
 </a>
 <a href="https://www.youtube.com/watch?v=w9DfC2BHGPA&t" target="_blank">
     <img src="https://img.youtube.com/vi/w9DfC2BHGPA/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
+</a>
+<a href="https://www.youtube.com/watch?v=SZcjvjrdomE" target="_blank">
+    <img src="https://img.youtube.com/vi/SZcjvjrdomE/0.jpg" alt="Inspiring Video Thumbnail" width="400"/>
 </a>
 
